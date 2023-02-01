@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **MERN**
 
 - 🌱 I’m currently learning **MERN stack**
 
