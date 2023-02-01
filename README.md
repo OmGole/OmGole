@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [omgole.me](omgole.me)
-
 - 💬 Ask me about **Java, JavaScript, TypeScript, Electron.js, React.js**
 
 - 📫 How to reach me **omgole82@gmail.com**
